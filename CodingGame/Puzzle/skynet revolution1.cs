@@ -6,11 +6,11 @@ using System.Collections;
 using System.Collections.Generic;
 
 /*********************************************************************/
-/*																	 */
+/*								     */
 /* https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1  */
-/* AUTHOR: 	ttatz													 */
-/* DATE: 	20.05.2021											     */
-/*																	 */
+/* AUTHOR: 	ttatz						     */
+/* DATE: 	20.05.2021					     */
+/*								     */
 /*********************************************************************/
 
 
